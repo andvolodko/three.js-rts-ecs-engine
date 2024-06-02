@@ -1,0 +1,23 @@
+$primary-color: #007bff;
+
+button {
+  background-color: $primary-color;
+  color: white;
+}
+
+#game-ui {
+  border: 1px solid #383636;
+  background: #000;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  z-index: 10000;
+  left: 0;
+  bottom: 0;
+}
+
+#game-ui button {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
