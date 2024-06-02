@@ -20,7 +20,7 @@ This demo serves as an excellent resource for learning and developing RTS games,
 #### Play now: https://andvolodko.github.io/three.js-rts-ecs-engine/
 
 #### Youtube video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wHRVM1l9GCs" frameborder="0" allowfullscreen></iframe>
+[![Youtube video](https://img.youtube.com/vi/wHRVM1l9GCs/0.jpg)](https://www.youtube.com/watch?v=wHRVM1l9GCs)
 
 ## Based on Three.js TypeScript Boilerplate
 
