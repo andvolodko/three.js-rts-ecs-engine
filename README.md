@@ -17,6 +17,11 @@ This project demonstrates a real-time strategy (RTS) game engine built using Typ
 
 This demo serves as an excellent resource for learning and developing RTS games, showcasing practical implementations of advanced game development techniques. Ideal for developers, students, and enthusiasts interested in game development. Contributions and forks are welcome!
 
+#### Play now: https://andvolodko.github.io/three.js-rts-ecs-engine/
+
+#### Youtube video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wHRVM1l9GCs" frameborder="0" allowfullscreen></iframe>
+
 ## Based on Three.js TypeScript Boilerplate
 
 ### `socket.io` Branch
